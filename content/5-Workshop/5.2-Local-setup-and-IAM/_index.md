@@ -58,7 +58,7 @@ Open AWS Console with an administrator account.
 
 1. Search for **IAM Identity Center**.
 2. Open **IAM Identity Center**.
-![Photo](/images/5-Workshop/private-by-default/screen2,1.png)
+![Photo](/images/5-Workshop/private-by-default/screen21.png)
 
 3. If IAM Identity Center is not enabled, click **Enable**.
 ![Photo](/images/5-Workshop/private-by-default/screen2,2.jpg)
@@ -697,13 +697,21 @@ Audit
 Confirm:
 
 [ ] VS Code installed
+
 [ ] Git installed
+
 [ ] AWS CLI installed
+
 [ ] Terraform installed
+
 [ ] OPA installed
+
 [ ] IAM Identity Center user created
+
 [ ] Permission set assigned
+
 [ ] AWS SSO login successful
+
 [ ] aws sts get-caller-identity works
 
 Only continue to Section 5.3 after every item above is complete.
