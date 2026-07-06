@@ -38,7 +38,7 @@ jobs:
 
       - name: Build Hugo site
         run: |
-          hugo --config config.toml --gc --minify --cleanDestinationDir --baseURL "https://minhphuong-hub.github.io/intern_workshop/"
+          hugo --config config.toml --gc --minify --cleanDestinationDir --baseURL "https://minhphuong-hub.github.io/"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
