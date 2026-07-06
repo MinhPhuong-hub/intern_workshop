@@ -691,13 +691,21 @@ Kiểm toán (Audit)
 Xác nhận:
 
 [ ] Đã cài đặt VS Code
+
 [ ] Đã cài đặt Git
+
 [ ] Đã cài đặt AWS CLI
+
 [ ] Đã cài đặt Terraform
+
 [ ] Đã cài đặt OPA
+
 [ ] Đã tạo người dùng IAM Identity Center
+
 [ ] Đã gán tập hợp quyền (Permission set)
+
 [ ] Đăng nhập AWS SSO thành công
+
 [ ] Lệnh `aws sts get-caller-identity` hoạt động bình thường
 
 Chỉ tiếp tục sang Mục 5.3 sau khi tất cả các mục trên đã được hoàn thành.
